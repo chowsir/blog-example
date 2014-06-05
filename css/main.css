@@ -103,7 +103,7 @@ header:before {
 }*/
 
 header > h1 > a {
-    color: white;
+    color: silver;
     text-decoration: none;
     font-weight: bold;
 }
